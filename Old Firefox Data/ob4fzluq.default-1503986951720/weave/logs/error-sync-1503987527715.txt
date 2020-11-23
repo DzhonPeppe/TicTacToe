@@ -1,0 +1,36 @@
+1503986995710	Sync.Service	INFO	Loading Weave 1.57.0
+1503986995713	Sync.Engine.Clients	DEBUG	Engine initialized
+1503986995715	Sync.Engine.Clients	DEBUG	Resetting clients last sync time
+1503986995721	Sync.Engine.Bookmarks	DEBUG	Engine initialized
+1503986995725	Sync.Engine.Forms	DEBUG	Engine initialized
+1503986995730	Sync.Engine.History	DEBUG	Engine initialized
+1503986995734	Sync.Engine.Passwords	DEBUG	Engine initialized
+1503986995737	Sync.Engine.Prefs	DEBUG	Engine initialized
+1503986995741	Sync.Engine.Tabs	DEBUG	Engine initialized
+1503986995741	Sync.Engine.Tabs	DEBUG	Resetting tabs last sync time
+1503986995748	Sync.Engine.Addons	DEBUG	Engine initialized
+1503986995751	Sync.Engine.Extension-Storage	DEBUG	Engine initialized
+1503986995752	Sync.Service	INFO	Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:55.0) Gecko/20100101 Firefox/55.0
+1503986995754	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1503986995755	Sync.Status	DEBUG	Status.login: success.login => error.login.reason.no_username
+1503986995755	Sync.Status	DEBUG	Status.service: success.status_ok => service.client_not_configured
+1503986995755	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1503986995755	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1503986995783	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1503986995783	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1503987356597	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1503987356597	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1503987470138	addons.xpi	WARN	Add-on firefox-hotfix@mozilla.org is not compatible with application version.
+1503987470454	addons.xpi	WARN	Add-on firefox-hotfix@mozilla.org is not compatible with application version.
+1503987527700	Sync.ErrorHandler	DEBUG	Beginning user-triggered sync.
+1503987527701	Sync.Service	DEBUG	User-Agent: Firefox/55.0.3 (Intel Mac OS X 10.12) FxSync/1.57.0.20170824053838.desktop
+1503987527702	Sync.Service	INFO	Starting sync at 2017-08-29 09:18:47 in browser session qHmZ2tck0T1L
+1503987527703	Sync.Service	DEBUG	In sync: should login.
+1503987527703	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1503987527703	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1503987527703	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1503987527704	Sync.SyncScheduler	DEBUG	Next sync in 3600000 ms.
+1503987527704	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1503987527705	Sync.Service	DEBUG	Exception calling WrappedLock: Aborting login, client not configured.
+1503987527706	Sync.Service	DEBUG	Not syncing: login returned false.
+1503987527715	Sync.ErrorHandler	DEBUG	Addons installed: 0

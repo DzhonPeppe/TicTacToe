@@ -1,0 +1,28 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version:0.19t:$
+Arch:x86_64-gcc3:$
+
+[PLUGINS]
+Flash Player.plugin:$
+/Library/Internet Plug-Ins/Flash Player.plugin:$
+32.0.0.156:$
+1552440112089:0:0:0:4:$
+Shockwave Flash 32.0 r0:$
+Shockwave Flash:$
+2
+0:application/x-shockwave-flash:Shockwave Flash:swf:$
+1:application/futuresplash:FutureSplash Player:spl:$
+
+[INVALID]
+/Users/johnpeppe/Library/Internet Plug-Ins/ZoomUsPlugIn.plugin:$
+1595582945934:$
+/Users/johnpeppe/Library/Internet Plug-Ins/WebEx64.plugin:$
+1519090772000:$
+/Users/johnpeppe/Library/Internet Plug-Ins/npcryptoplugin.bundle:$
+1468825976000:$
+/Library/Internet Plug-Ins/PepperFlashPlayer:$
+1552429753129:$
+/Library/Internet Plug-Ins/flashplayer.xpt:$
+1551133664000:$
